@@ -1,0 +1,1 @@
+C:\Projects\AspNetIdentity.WebApi\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.csprojResolveAssemblyReference.cache
